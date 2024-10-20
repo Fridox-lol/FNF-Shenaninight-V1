@@ -2488,7 +2488,7 @@ class PlayState extends MusicBeatState
 	public var totalNotesHit:Float = 0.0;
 
 	public var showCombo:Bool = false;
-	public var showComboNum:Bool = true;
+	public var showComboNum:Bool = false;
 	public var showRating:Bool = true;
 
 	// Stores Ratings and Combo Sprites in a group

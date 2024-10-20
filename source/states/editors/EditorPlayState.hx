@@ -57,7 +57,7 @@ class EditorPlayState extends MusicBeatSubstate
 	var ratingFC:String;
 	
 	var showCombo:Bool = false;
-	var showComboNum:Bool = true;
+	var showComboNum:Bool = false;
 	var showRating:Bool = true;
 
 	// Originals
