@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="the_end.png">
+	<!-- Created with Adobe Animate version 24.0.3.19 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="end idle instance 10000" x="2" y="2" width="174" height="216"/>
+	<SubTexture name="end idle instance 10001" x="178" y="2" width="174" height="216"/>
+	<SubTexture name="end idle instance 10002" x="354" y="2" width="174" height="216"/>
+	<SubTexture name="end idle instance 10003" x="530" y="2" width="174" height="216"/>
+	<SubTexture name="end idle instance 10004" x="706" y="2" width="174" height="216"/>
+	<SubTexture name="end idle instance 10005" x="2" y="220" width="174" height="216"/>
+	<SubTexture name="end select instance 10000" x="178" y="220" width="174" height="216"/>
+	<SubTexture name="end select instance 10001" x="354" y="220" width="174" height="216"/>
+	<SubTexture name="end select instance 10002" x="530" y="220" width="174" height="216"/>
+	<SubTexture name="end select instance 10003" x="706" y="220" width="174" height="216"/>
+	<SubTexture name="end select instance 10004" x="2" y="438" width="174" height="216"/>
+	<SubTexture name="end select instance 10005" x="178" y="438" width="174" height="216"/>
+</TextureAtlas>

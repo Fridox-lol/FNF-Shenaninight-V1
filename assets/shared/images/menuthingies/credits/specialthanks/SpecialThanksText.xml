@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SpecialThanksText.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SpecialText0000" x="2" y="2" width="763" height="93"/>
+	<SubTexture name="SpecialText0001" x="2" y="2" width="763" height="93"/>
+	<SubTexture name="SpecialText0002" x="2" y="2" width="763" height="93"/>
+	<SubTexture name="SpecialText0003" x="2" y="2" width="763" height="93"/>
+	<SubTexture name="SpecialText0004" x="2" y="97" width="763" height="93"/>
+	<SubTexture name="SpecialText0005" x="2" y="97" width="763" height="93"/>
+	<SubTexture name="SpecialText0006" x="2" y="97" width="763" height="93"/>
+	<SubTexture name="SpecialText0007" x="2" y="97" width="763" height="93"/>
+</TextureAtlas>

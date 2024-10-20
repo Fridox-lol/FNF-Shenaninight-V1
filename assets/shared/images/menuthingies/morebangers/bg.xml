@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="more bangers bg instance 10000" x="0" y="0" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10001" x="1282" y="0" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10002" x="2564" y="0" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10003" x="0" y="765" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10004" x="1282" y="765" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10005" x="2564" y="765" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10006" x="0" y="1530" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10007" x="1282" y="0" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10008" x="2564" y="0" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10009" x="1282" y="1530" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10010" x="2564" y="1530" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10011" x="0" y="2295" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10012" x="0" y="0" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10013" x="1282" y="0" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10014" x="2564" y="0" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10015" x="0" y="765" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10016" x="1282" y="765" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10017" x="2564" y="765" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10018" x="0" y="0" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10019" x="1282" y="0" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10020" x="2564" y="0" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10021" x="0" y="765" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10022" x="1282" y="765" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10023" x="2564" y="765" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10024" x="0" y="1530" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10025" x="1282" y="0" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10026" x="2564" y="0" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10027" x="0" y="765" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10028" x="1282" y="765" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10029" x="2564" y="765" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10030" x="0" y="1530" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10031" x="1282" y="0" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10032" x="2564" y="0" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10033" x="0" y="765" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10034" x="1282" y="765" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10035" x="2564" y="765" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10036" x="0" y="1530" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10037" x="1282" y="0" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10038" x="2564" y="0" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10039" x="0" y="765" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10040" x="1282" y="765" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10041" x="2564" y="765" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10042" x="0" y="1530" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10043" x="1282" y="2295" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10044" x="2564" y="2295" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10045" x="0" y="3060" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10046" x="1282" y="3060" width="1282" height="765"/>
+	<SubTexture name="more bangers bg instance 10047" x="2564" y="3060" width="1282" height="765"/>
+</TextureAtlas>

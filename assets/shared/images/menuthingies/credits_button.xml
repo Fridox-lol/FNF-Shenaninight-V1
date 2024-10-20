@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="credits_button.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="credits_idle instance 10000" x="2" y="2" width="438" height="165"/>
+	<SubTexture name="credits_idle instance 10001" x="442" y="2" width="438" height="165"/>
+	<SubTexture name="credits_idle instance 10002" x="882" y="2" width="438" height="165"/>
+	<SubTexture name="credits_idle instance 10003" x="1322" y="2" width="438" height="165"/>
+	<SubTexture name="credits_idle instance 10004" x="2" y="169" width="438" height="165"/>
+	<SubTexture name="credits_idle instance 10005" x="442" y="169" width="438" height="165"/>
+	<SubTexture name="credits_idle instance 10006" x="882" y="169" width="438" height="165"/>
+	<SubTexture name="credits_idle instance 10007" x="1322" y="169" width="438" height="165"/>
+	<SubTexture name="credits_idle instance 10008" x="2" y="336" width="438" height="165"/>
+	<SubTexture name="credits_idle instance 10009" x="442" y="336" width="438" height="165"/>
+	<SubTexture name="credits_idle instance 10010" x="882" y="336" width="438" height="165"/>
+	<SubTexture name="credits_idle instance 10011" x="1322" y="336" width="438" height="165"/>
+	<SubTexture name="credits_idle instance 10012" x="2" y="503" width="438" height="165"/>
+	<SubTexture name="credits_idle instance 10013" x="442" y="503" width="438" height="165"/>
+	<SubTexture name="credits_idle instance 10014" x="882" y="503" width="438" height="165"/>
+	<SubTexture name="credits_idle instance 10015" x="1322" y="503" width="438" height="165"/>
+	<SubTexture name="credits_idle instance 10016" x="2" y="670" width="438" height="165"/>
+	<SubTexture name="credits_idle instance 10017" x="442" y="670" width="438" height="165"/>
+	<SubTexture name="credits_idle instance 10018" x="882" y="670" width="438" height="165"/>
+	<SubTexture name="credits_idle instance 10019" x="1322" y="670" width="438" height="165"/>
+	<SubTexture name="credits_idle instance 10020" x="2" y="837" width="438" height="165"/>
+	<SubTexture name="credits_idle instance 10021" x="442" y="837" width="438" height="165"/>
+	<SubTexture name="credits_idle instance 10022" x="882" y="837" width="438" height="165"/>
+	<SubTexture name="credits_idle instance 10023" x="1322" y="837" width="438" height="165"/>
+	<SubTexture name="credits_select instance 10000" x="2" y="1004" width="438" height="165"/>
+	<SubTexture name="credits_select instance 10001" x="442" y="1004" width="438" height="165"/>
+	<SubTexture name="credits_select instance 10002" x="882" y="1004" width="438" height="165"/>
+	<SubTexture name="credits_select instance 10003" x="1322" y="1004" width="438" height="165"/>
+	<SubTexture name="credits_select instance 10004" x="2" y="1171" width="438" height="165"/>
+	<SubTexture name="credits_select instance 10005" x="442" y="1171" width="438" height="165"/>
+	<SubTexture name="credits_select instance 10006" x="442" y="1171" width="438" height="165"/>
+	<SubTexture name="credits_select instance 10007" x="882" y="1171" width="438" height="165"/>
+	<SubTexture name="credits_select instance 10008" x="2" y="1004" width="438" height="165"/>
+	<SubTexture name="credits_select instance 10009" x="442" y="1004" width="438" height="165"/>
+	<SubTexture name="credits_select instance 10010" x="882" y="1004" width="438" height="165"/>
+	<SubTexture name="credits_select instance 10011" x="1322" y="1004" width="438" height="165"/>
+	<SubTexture name="credits_select instance 10012" x="2" y="1171" width="438" height="165"/>
+	<SubTexture name="credits_select instance 10013" x="442" y="1171" width="438" height="165"/>
+	<SubTexture name="credits_select instance 10014" x="442" y="1171" width="438" height="165"/>
+	<SubTexture name="credits_select instance 10015" x="882" y="1171" width="438" height="165"/>
+	<SubTexture name="credits_select instance 10016" x="2" y="1004" width="438" height="165"/>
+	<SubTexture name="credits_select instance 10017" x="442" y="1004" width="438" height="165"/>
+	<SubTexture name="credits_select instance 10018" x="882" y="1004" width="438" height="165"/>
+	<SubTexture name="credits_select instance 10019" x="1322" y="1004" width="438" height="165"/>
+	<SubTexture name="credits_select instance 10020" x="2" y="1171" width="438" height="165"/>
+	<SubTexture name="credits_select instance 10021" x="442" y="1171" width="438" height="165"/>
+	<SubTexture name="credits_select instance 10022" x="442" y="1171" width="438" height="165"/>
+	<SubTexture name="credits_select instance 10023" x="882" y="1171" width="438" height="165"/>
+</TextureAtlas>

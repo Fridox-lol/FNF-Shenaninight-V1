@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="funny_2.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="funny_20000" x="2" y="2" width="555" height="411"/>
+	<SubTexture name="funny_20001" x="2" y="415" width="555" height="411"/>
+</TextureAtlas>

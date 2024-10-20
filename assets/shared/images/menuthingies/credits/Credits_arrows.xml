@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Credits_arrows.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="leftArrow instance 10000" x="2" y="2" width="73" height="69"/>
+	<SubTexture name="leftArrowSelec instance 10000" x="77" y="2" width="73" height="69"/>
+	<SubTexture name="rightArrow instance 10000" x="152" y="2" width="69" height="68"/>
+	<SubTexture name="rightArrowSelec instance 10000" x="2" y="73" width="69" height="69"/>
+</TextureAtlas>

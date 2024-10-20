@@ -1,0 +1,33 @@
+{
+	"storyName": "Lori's Universe",
+	"difficulties": "Normal, Hard",
+	"weekBackground": "stage",
+	"hideFreeplay": false,
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"inFNFVerse": false,
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Intruder In Call",
+			"lori",
+			[
+				255,
+				173,
+				113
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": false,
+	"weekName": "anger issue boi"
+}

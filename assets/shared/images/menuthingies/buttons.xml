@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="buttons.png">
+	<!-- Created with Adobe Animate version 24.0.3.19 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="freeplay idle instance 10000" x="2" y="2" width="641" height="180"/>
+	<SubTexture name="freeplay select instance 10000" x="645" y="2" width="641" height="180"/>
+	<SubTexture name="freeplay select instance 10001" x="645" y="2" width="641" height="180"/>
+	<SubTexture name="freeplay select instance 10002" x="1288" y="2" width="641" height="180"/>
+	<SubTexture name="freeplay select instance 10003" x="1288" y="2" width="641" height="180"/>
+	<SubTexture name="more_bangers idle instance 10000" x="2" y="184" width="641" height="181"/>
+	<SubTexture name="more_bangers select instance 10000" x="645" y="184" width="641" height="181"/>
+	<SubTexture name="more_bangers select instance 10001" x="1288" y="184" width="641" height="181"/>
+	<SubTexture name="more_bangers select instance 10002" x="2" y="367" width="641" height="181"/>
+	<SubTexture name="more_bangers select instance 10003" x="645" y="367" width="641" height="181"/>
+	<SubTexture name="options idle instance 10000" x="1288" y="367" width="641" height="181"/>
+	<SubTexture name="options select instance 10000" x="2" y="550" width="641" height="181"/>
+	<SubTexture name="options select instance 10001" x="2" y="550" width="641" height="181"/>
+	<SubTexture name="options select instance 10002" x="645" y="550" width="641" height="181"/>
+	<SubTexture name="options select instance 10003" x="645" y="550" width="641" height="181"/>
+	<SubTexture name="story_mode idle instance 10000" x="1288" y="550" width="641" height="180"/>
+	<SubTexture name="story_mode select instance 10000" x="2" y="733" width="641" height="180"/>
+	<SubTexture name="story_mode select instance 10001" x="2" y="733" width="641" height="180"/>
+	<SubTexture name="story_mode select instance 10002" x="645" y="733" width="641" height="180"/>
+	<SubTexture name="story_mode select instance 10003" x="645" y="733" width="641" height="180"/>
+</TextureAtlas>

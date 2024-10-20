@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BGAnim instance 10000" x="2" y="2" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10001" x="1288" y="2" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10002" x="2574" y="2" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10003" x="3860" y="2" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10004" x="5146" y="2" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10005" x="6432" y="2" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10006" x="2" y="725" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10007" x="1288" y="2" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10008" x="2574" y="2" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10009" x="1288" y="725" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10010" x="2574" y="725" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10011" x="3860" y="725" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10012" x="5146" y="725" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10013" x="6432" y="725" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10014" x="2" y="1448" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10015" x="1288" y="725" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10016" x="2574" y="725" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10017" x="3860" y="725" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10018" x="5146" y="725" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10019" x="1288" y="2" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10020" x="2574" y="2" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10021" x="3860" y="2" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10022" x="5146" y="2" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10023" x="6432" y="2" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10024" x="2" y="725" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10025" x="1288" y="2" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10026" x="2574" y="2" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10027" x="3860" y="2" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10028" x="5146" y="2" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10029" x="6432" y="2" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10030" x="2" y="725" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10031" x="1288" y="2" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10032" x="2574" y="2" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10033" x="3860" y="2" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10034" x="5146" y="2" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10035" x="6432" y="2" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10036" x="2" y="725" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10037" x="1288" y="2" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10038" x="2574" y="2" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10039" x="3860" y="2" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10040" x="5146" y="2" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10041" x="6432" y="2" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10042" x="2" y="725" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10043" x="1288" y="1448" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10044" x="2574" y="1448" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10045" x="3860" y="1448" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10046" x="5146" y="1448" width="1284" height="721"/>
+	<SubTexture name="BGAnim instance 10047" x="6432" y="1448" width="1284" height="721"/>
+</TextureAtlas>

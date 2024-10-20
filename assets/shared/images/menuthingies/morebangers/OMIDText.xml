@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="OMIDText.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Others0000" x="0" y="0" width="1146" height="91"/>
+	<SubTexture name="Others0001" x="0" y="0" width="1146" height="91"/>
+	<SubTexture name="Others0002" x="0" y="0" width="1146" height="91"/>
+	<SubTexture name="Others0003" x="0" y="0" width="1146" height="91"/>
+	<SubTexture name="Others0004" x="0" y="91" width="1146" height="91"/>
+	<SubTexture name="Others0005" x="0" y="91" width="1146" height="91"/>
+	<SubTexture name="Others0006" x="0" y="91" width="1146" height="91"/>
+	<SubTexture name="Others0007" x="0" y="91" width="1146" height="91"/>
+</TextureAtlas>

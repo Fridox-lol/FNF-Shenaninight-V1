@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SimCart.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cartdridge0000" x="0" y="0" width="397" height="320"/>
+	<SubTexture name="Cartdridge0001" x="0" y="0" width="397" height="320"/>
+	<SubTexture name="Cartdridge0002" x="0" y="0" width="397" height="320"/>
+	<SubTexture name="Cartdridge0003" x="0" y="0" width="397" height="320"/>
+	<SubTexture name="Cartdridge0004" x="397" y="0" width="397" height="320"/>
+	<SubTexture name="Cartdridge0005" x="397" y="0" width="397" height="320"/>
+	<SubTexture name="Cartdridge0006" x="397" y="0" width="397" height="320"/>
+	<SubTexture name="Cartdridge0007" x="397" y="0" width="397" height="320"/>
+</TextureAtlas>

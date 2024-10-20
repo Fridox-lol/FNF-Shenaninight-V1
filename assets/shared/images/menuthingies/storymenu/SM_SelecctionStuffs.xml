@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SM_SelecctionStuffs.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LeftArrow0000" x="2" y="2" width="74" height="74"/>
+	<SubTexture name="LeftArrowSelect0000" x="78" y="2" width="53" height="48"/>
+	<SubTexture name="RightArrow0000" x="133" y="2" width="66" height="70"/>
+	<SubTexture name="RightArrowSelect0000" x="201" y="2" width="46" height="44"/>
+	<SubTexture name="stupid lock0000" x="2" y="78" width="109" height="144"/>
+</TextureAtlas>

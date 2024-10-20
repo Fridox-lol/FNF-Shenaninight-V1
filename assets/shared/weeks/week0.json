@@ -1,0 +1,33 @@
+{
+	"storyName": "How to funk",
+	"difficulties": "Hard",
+	"weekBackground": "tortilla",
+	"hideFreeplay": false,
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"inFNFVerse": false,
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"How To Funk",
+			"gf",
+			[
+				165,
+				0,
+				77
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "tortilla",
+	"hiddenUntilUnlocked": false
+}

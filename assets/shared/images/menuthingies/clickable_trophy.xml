@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="clickable_trophy.png">
+	<!-- Created with Adobe Animate version 24.0.3.19 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="achievements instance 10000" x="2" y="2" width="64" height="71"/>
+	<SubTexture name="achievements instance 10001" x="68" y="2" width="64" height="71"/>
+	<SubTexture name="achievements instance 10002" x="134" y="2" width="64" height="71"/>
+	<SubTexture name="achievements instance 10003" x="2" y="75" width="64" height="71"/>
+	<SubTexture name="achievements instance 10004" x="68" y="75" width="64" height="71"/>
+	<SubTexture name="achievements instance 10005" x="134" y="75" width="64" height="71"/>
+</TextureAtlas>

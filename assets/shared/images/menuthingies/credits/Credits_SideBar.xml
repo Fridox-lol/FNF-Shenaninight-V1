@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Credits_SideBar.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CreditsSideThing0000" x="2" y="2" width="736" height="803"/>
+	<SubTexture name="CreditsSideThing0001" x="2" y="2" width="736" height="803"/>
+	<SubTexture name="CreditsSideThing0002" x="2" y="2" width="736" height="803"/>
+	<SubTexture name="CreditsSideThing0003" x="740" y="2" width="736" height="803"/>
+	<SubTexture name="CreditsSideThing0004" x="740" y="2" width="736" height="803"/>
+	<SubTexture name="CreditsSideThing0005" x="740" y="2" width="736" height="803"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="STSText.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="UpperText0000" x="0" y="0" width="1213" height="143"/>
+	<SubTexture name="UpperText0001" x="0" y="0" width="1213" height="143"/>
+	<SubTexture name="UpperText0002" x="0" y="0" width="1213" height="143"/>
+	<SubTexture name="UpperText0003" x="0" y="0" width="1213" height="143"/>
+	<SubTexture name="UpperText0004" x="0" y="143" width="1213" height="143"/>
+	<SubTexture name="UpperText0005" x="0" y="143" width="1213" height="143"/>
+	<SubTexture name="UpperText0006" x="0" y="143" width="1213" height="143"/>
+	<SubTexture name="UpperText0007" x="0" y="143" width="1213" height="143"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="specialCreditsBox.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="textBox0000" x="2" y="2" width="653" height="241"/>
+	<SubTexture name="textBox0001" x="2" y="2" width="653" height="241"/>
+	<SubTexture name="textBox0002" x="2" y="2" width="653" height="241"/>
+	<SubTexture name="textBox0003" x="2" y="2" width="653" height="241"/>
+	<SubTexture name="textBox0004" x="2" y="245" width="653" height="241"/>
+	<SubTexture name="textBox0005" x="2" y="245" width="653" height="241"/>
+	<SubTexture name="textBox0006" x="2" y="245" width="653" height="241"/>
+	<SubTexture name="textBox0007" x="2" y="245" width="653" height="241"/>
+</TextureAtlas>

@@ -1,0 +1,532 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_assets.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Cheer0000" x="2" y="2" width="701" height="657" frameX="-1" frameY="0" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Cheer0001" x="705" y="2" width="701" height="657" frameX="-1" frameY="0" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Cheer0002" x="1408" y="2" width="704" height="650" frameX="0" frameY="-8" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Cheer0003" x="1408" y="2" width="704" height="650" frameX="0" frameY="-8" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Cheer0004" x="2114" y="2" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Cheer0005" x="2817" y="2" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Cheer0006" x="2817" y="2" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Cheer0007" x="2817" y="2" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Cheer0008" x="2817" y="2" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Cheer0009" x="2817" y="2" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Cheer0010" x="2817" y="2" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Cheer0011" x="2817" y="2" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Cheer0012" x="2817" y="2" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Cheer0013" x="2817" y="2" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Cheer0014" x="2817" y="2" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Cheer0015" x="2817" y="2" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Cheer0016" x="2817" y="2" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Cheer0017" x="2817" y="2" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Cheer0018" x="2817" y="2" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Cheer0019" x="2817" y="2" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Cheer0020" x="2817" y="2" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Cheer0021" x="2817" y="2" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Cheer0022" x="2817" y="2" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Dancing Beat0000" x="3520" y="2" width="701" height="637" frameX="-1" frameY="-17" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Dancing Beat0001" x="4223" y="2" width="704" height="638" frameX="0" frameY="-17" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Dancing Beat0002" x="4929" y="2" width="704" height="636" frameX="0" frameY="-19" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Dancing Beat0003" x="5635" y="2" width="701" height="635" frameX="-1" frameY="-19" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Dancing Beat0004" x="6338" y="2" width="701" height="640" frameX="-1" frameY="-14" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Dancing Beat0005" x="7041" y="2" width="701" height="640" frameX="-1" frameY="-14" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Dancing Beat0006" x="2" y="661" width="701" height="642" frameX="-1" frameY="-12" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Dancing Beat0007" x="705" y="661" width="701" height="653" frameX="-1" frameY="-1" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Dancing Beat0008" x="705" y="661" width="701" height="653" frameX="-1" frameY="-1" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Dancing Beat0009" x="705" y="661" width="701" height="653" frameX="-1" frameY="-1" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Dancing Beat0010" x="1408" y="661" width="701" height="654" frameX="-1" frameY="0" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Dancing Beat0011" x="1408" y="661" width="701" height="654" frameX="-1" frameY="0" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Dancing Beat0012" x="1408" y="661" width="701" height="654" frameX="-1" frameY="0" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Dancing Beat0013" x="2111" y="661" width="701" height="653" frameX="-1" frameY="-1" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Dancing Beat0014" x="2111" y="661" width="701" height="653" frameX="-1" frameY="-1" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Dancing Beat0015" x="2814" y="661" width="701" height="642" frameX="-1" frameY="-12" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Dancing Beat0016" x="3517" y="661" width="704" height="643" frameX="0" frameY="-12" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Dancing Beat0017" x="4223" y="661" width="704" height="643" frameX="0" frameY="-12" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Dancing Beat0018" x="4929" y="661" width="701" height="642" frameX="-1" frameY="-12" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Dancing Beat0019" x="5632" y="661" width="701" height="642" frameX="-1" frameY="-12" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Dancing Beat0020" x="6335" y="661" width="701" height="642" frameX="-1" frameY="-12" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Dancing Beat0021" x="7038" y="661" width="701" height="644" frameX="-1" frameY="-10" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Dancing Beat0022" x="2" y="1317" width="701" height="648" frameX="-1" frameY="-6" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Dancing Beat0023" x="2" y="1317" width="701" height="648" frameX="-1" frameY="-6" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Dancing Beat0024" x="2" y="1317" width="701" height="648" frameX="-1" frameY="-6" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Dancing Beat0025" x="705" y="1317" width="701" height="647" frameX="-1" frameY="-7" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Dancing Beat0026" x="705" y="1317" width="701" height="647" frameX="-1" frameY="-7" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Dancing Beat0027" x="705" y="1317" width="701" height="647" frameX="-1" frameY="-7" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Dancing Beat0028" x="1408" y="1317" width="701" height="647" frameX="-1" frameY="-7" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Dancing Beat0029" x="1408" y="1317" width="701" height="647" frameX="-1" frameY="-7" frameWidth="704" frameHeight="655"/>
+	<SubTexture name="GF Down Note0000" x="2111" y="1317" width="701" height="636" frameX="-1" frameY="-6" frameWidth="704" frameHeight="643"/>
+	<SubTexture name="GF Down Note0001" x="2814" y="1317" width="704" height="637" frameX="0" frameY="-6" frameWidth="704" frameHeight="643"/>
+	<SubTexture name="GF Down Note0002" x="3520" y="1317" width="704" height="642" frameX="0" frameY="-1" frameWidth="704" frameHeight="643"/>
+	<SubTexture name="GF Down Note0003" x="4226" y="1317" width="701" height="641" frameX="-1" frameY="-1" frameWidth="704" frameHeight="643"/>
+	<SubTexture name="GF Down Note0004" x="4929" y="1317" width="701" height="642" frameX="-1" frameY="0" frameWidth="704" frameHeight="643"/>
+	<SubTexture name="GF Down Note0005" x="4929" y="1317" width="701" height="642" frameX="-1" frameY="0" frameWidth="704" frameHeight="643"/>
+	<SubTexture name="GF Down Note0006" x="5632" y="1317" width="701" height="642" frameX="-1" frameY="0" frameWidth="704" frameHeight="643"/>
+	<SubTexture name="GF Down Note0007" x="5632" y="1317" width="701" height="642" frameX="-1" frameY="0" frameWidth="704" frameHeight="643"/>
+	<SubTexture name="GF Down Note0008" x="5632" y="1317" width="701" height="642" frameX="-1" frameY="0" frameWidth="704" frameHeight="643"/>
+	<SubTexture name="GF Down Note0009" x="5632" y="1317" width="701" height="642" frameX="-1" frameY="0" frameWidth="704" frameHeight="643"/>
+	<SubTexture name="GF Down Note0010" x="5632" y="1317" width="701" height="642" frameX="-1" frameY="0" frameWidth="704" frameHeight="643"/>
+	<SubTexture name="GF Down Note0011" x="5632" y="1317" width="701" height="642" frameX="-1" frameY="0" frameWidth="704" frameHeight="643"/>
+	<SubTexture name="GF Down Note0012" x="5632" y="1317" width="701" height="642" frameX="-1" frameY="0" frameWidth="704" frameHeight="643"/>
+	<SubTexture name="GF Down Note0013" x="5632" y="1317" width="701" height="642" frameX="-1" frameY="0" frameWidth="704" frameHeight="643"/>
+	<SubTexture name="GF Down Note0014" x="5632" y="1317" width="701" height="642" frameX="-1" frameY="0" frameWidth="704" frameHeight="643"/>
+	<SubTexture name="GF Down Note0015" x="5632" y="1317" width="701" height="642" frameX="-1" frameY="0" frameWidth="704" frameHeight="643"/>
+	<SubTexture name="GF Down Note0016" x="5632" y="1317" width="701" height="642" frameX="-1" frameY="0" frameWidth="704" frameHeight="643"/>
+	<SubTexture name="GF Down Note0017" x="5632" y="1317" width="701" height="642" frameX="-1" frameY="0" frameWidth="704" frameHeight="643"/>
+	<SubTexture name="GF Down Note0018" x="5632" y="1317" width="701" height="642" frameX="-1" frameY="0" frameWidth="704" frameHeight="643"/>
+	<SubTexture name="GF Down Note0019" x="5632" y="1317" width="701" height="642" frameX="-1" frameY="0" frameWidth="704" frameHeight="643"/>
+	<SubTexture name="GF Right Note0000" x="6335" y="1317" width="701" height="637" frameX="-1" frameY="-6" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="GF Right Note0001" x="7038" y="1317" width="704" height="638" frameX="0" frameY="-6" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="GF Right Note0002" x="2" y="1967" width="704" height="643" frameX="0" frameY="-1" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="GF Right Note0003" x="708" y="1967" width="701" height="642" frameX="-1" frameY="-1" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="GF Right Note0004" x="1411" y="1967" width="701" height="642" frameX="-1" frameY="-1" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="GF Right Note0005" x="2114" y="1967" width="701" height="642" frameX="-1" frameY="-1" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="GF Right Note0006" x="2817" y="1967" width="701" height="643" frameX="-1" frameY="0" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="GF Right Note0007" x="2817" y="1967" width="701" height="643" frameX="-1" frameY="0" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="GF Right Note0008" x="3520" y="1967" width="701" height="643" frameX="-1" frameY="0" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="GF Right Note0009" x="3520" y="1967" width="701" height="643" frameX="-1" frameY="0" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="GF Right Note0010" x="3520" y="1967" width="701" height="643" frameX="-1" frameY="0" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="GF Right Note0011" x="3520" y="1967" width="701" height="643" frameX="-1" frameY="0" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="GF Right Note0012" x="3520" y="1967" width="701" height="643" frameX="-1" frameY="0" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="GF Right Note0013" x="3520" y="1967" width="701" height="643" frameX="-1" frameY="0" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="GF Right Note0014" x="3520" y="1967" width="701" height="643" frameX="-1" frameY="0" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="GF Up Note0000" x="4223" y="1967" width="701" height="666" frameX="-1" frameY="0" frameWidth="704" frameHeight="667"/>
+	<SubTexture name="GF Up Note0001" x="4926" y="1967" width="704" height="667"/>
+	<SubTexture name="GF Up Note0002" x="5632" y="1967" width="704" height="667"/>
+	<SubTexture name="GF Up Note0003" x="6338" y="1967" width="701" height="666" frameX="-1" frameY="0" frameWidth="704" frameHeight="667"/>
+	<SubTexture name="GF Up Note0004" x="7041" y="1967" width="701" height="666" frameX="-1" frameY="0" frameWidth="704" frameHeight="667"/>
+	<SubTexture name="GF Up Note0005" x="7041" y="1967" width="701" height="666" frameX="-1" frameY="0" frameWidth="704" frameHeight="667"/>
+	<SubTexture name="GF Up Note0006" x="2" y="2636" width="701" height="666" frameX="-1" frameY="0" frameWidth="704" frameHeight="667"/>
+	<SubTexture name="GF Up Note0007" x="2" y="2636" width="701" height="666" frameX="-1" frameY="0" frameWidth="704" frameHeight="667"/>
+	<SubTexture name="GF Up Note0008" x="2" y="2636" width="701" height="666" frameX="-1" frameY="0" frameWidth="704" frameHeight="667"/>
+	<SubTexture name="GF Up Note0009" x="2" y="2636" width="701" height="666" frameX="-1" frameY="0" frameWidth="704" frameHeight="667"/>
+	<SubTexture name="GF Up Note0010" x="2" y="2636" width="701" height="666" frameX="-1" frameY="0" frameWidth="704" frameHeight="667"/>
+	<SubTexture name="GF Up Note0011" x="2" y="2636" width="701" height="666" frameX="-1" frameY="0" frameWidth="704" frameHeight="667"/>
+	<SubTexture name="GF Up Note0012" x="2" y="2636" width="701" height="666" frameX="-1" frameY="0" frameWidth="704" frameHeight="667"/>
+	<SubTexture name="GF Up Note0013" x="2" y="2636" width="701" height="666" frameX="-1" frameY="0" frameWidth="704" frameHeight="667"/>
+	<SubTexture name="GF Up Note0014" x="2" y="2636" width="701" height="666" frameX="-1" frameY="0" frameWidth="704" frameHeight="667"/>
+	<SubTexture name="GF Up Note0015" x="2" y="2636" width="701" height="666" frameX="-1" frameY="0" frameWidth="704" frameHeight="667"/>
+	<SubTexture name="GF Up Note0016" x="2" y="2636" width="701" height="666" frameX="-1" frameY="0" frameWidth="704" frameHeight="667"/>
+	<SubTexture name="GF Up Note0017" x="2" y="2636" width="701" height="666" frameX="-1" frameY="0" frameWidth="704" frameHeight="667"/>
+	<SubTexture name="GF Up Note0018" x="2" y="2636" width="701" height="666" frameX="-1" frameY="0" frameWidth="704" frameHeight="667"/>
+	<SubTexture name="GF Up Note0019" x="2" y="2636" width="701" height="666" frameX="-1" frameY="0" frameWidth="704" frameHeight="667"/>
+	<SubTexture name="GF Voiceline 20000" x="705" y="2636" width="704" height="648"/>
+	<SubTexture name="GF Voiceline 20001" x="705" y="2636" width="704" height="648"/>
+	<SubTexture name="GF Voiceline 20002" x="1411" y="2636" width="701" height="647" frameX="-1" frameY="0" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20003" x="2114" y="2636" width="701" height="647" frameX="-1" frameY="0" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20004" x="2817" y="2636" width="704" height="648"/>
+	<SubTexture name="GF Voiceline 20005" x="2817" y="2636" width="704" height="648"/>
+	<SubTexture name="GF Voiceline 20006" x="3523" y="2636" width="701" height="647" frameX="-1" frameY="0" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20007" x="4226" y="2636" width="701" height="647" frameX="-1" frameY="0" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20008" x="4929" y="2636" width="701" height="647" frameX="-1" frameY="0" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20009" x="4929" y="2636" width="701" height="647" frameX="-1" frameY="0" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20010" x="4929" y="2636" width="701" height="647" frameX="-1" frameY="0" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20011" x="5632" y="2636" width="701" height="647" frameX="-1" frameY="0" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20012" x="6335" y="2636" width="701" height="647" frameX="-1" frameY="0" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20013" x="6335" y="2636" width="701" height="647" frameX="-1" frameY="0" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20014" x="7038" y="2636" width="701" height="647" frameX="-1" frameY="0" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20015" x="7038" y="2636" width="701" height="647" frameX="-1" frameY="0" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20016" x="7038" y="2636" width="701" height="647" frameX="-1" frameY="0" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20017" x="7038" y="2636" width="701" height="647" frameX="-1" frameY="0" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20018" x="2" y="3304" width="701" height="645" frameX="-1" frameY="-2" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20019" x="705" y="3304" width="701" height="642" frameX="-1" frameY="-5" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20020" x="705" y="3304" width="701" height="642" frameX="-1" frameY="-5" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20021" x="1408" y="3304" width="701" height="642" frameX="-1" frameY="-5" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20022" x="1408" y="3304" width="701" height="642" frameX="-1" frameY="-5" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20023" x="2111" y="3304" width="701" height="642" frameX="-1" frameY="-5" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20024" x="2111" y="3304" width="701" height="642" frameX="-1" frameY="-5" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20025" x="2814" y="3304" width="701" height="642" frameX="-1" frameY="-5" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20026" x="2814" y="3304" width="701" height="642" frameX="-1" frameY="-5" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20027" x="2814" y="3304" width="701" height="642" frameX="-1" frameY="-5" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20028" x="2814" y="3304" width="701" height="642" frameX="-1" frameY="-5" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20029" x="2814" y="3304" width="701" height="642" frameX="-1" frameY="-5" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20030" x="2814" y="3304" width="701" height="642" frameX="-1" frameY="-5" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20031" x="2814" y="3304" width="701" height="642" frameX="-1" frameY="-5" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20032" x="2814" y="3304" width="701" height="642" frameX="-1" frameY="-5" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20033" x="2814" y="3304" width="701" height="642" frameX="-1" frameY="-5" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20034" x="2814" y="3304" width="701" height="642" frameX="-1" frameY="-5" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20035" x="2814" y="3304" width="701" height="642" frameX="-1" frameY="-5" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20036" x="2814" y="3304" width="701" height="642" frameX="-1" frameY="-5" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20037" x="2814" y="3304" width="701" height="642" frameX="-1" frameY="-5" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20038" x="2814" y="3304" width="701" height="642" frameX="-1" frameY="-5" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20039" x="2814" y="3304" width="701" height="642" frameX="-1" frameY="-5" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20040" x="2814" y="3304" width="701" height="642" frameX="-1" frameY="-5" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20041" x="3517" y="3304" width="704" height="643" frameX="0" frameY="-5" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20042" x="3517" y="3304" width="704" height="643" frameX="0" frameY="-5" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20043" x="4223" y="3304" width="701" height="642" frameX="-1" frameY="-5" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20044" x="2814" y="3304" width="701" height="642" frameX="-1" frameY="-5" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20045" x="2814" y="3304" width="701" height="642" frameX="-1" frameY="-5" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20046" x="2814" y="3304" width="701" height="642" frameX="-1" frameY="-5" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline 20047" x="2814" y="3304" width="701" height="642" frameX="-1" frameY="-5" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="GF Voiceline10000" x="4926" y="3304" width="704" height="651"/>
+	<SubTexture name="GF Voiceline10001" x="5632" y="3304" width="704" height="651"/>
+	<SubTexture name="GF Voiceline10002" x="6338" y="3304" width="701" height="650" frameX="-1" frameY="0" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10003" x="7041" y="3304" width="701" height="647" frameX="-1" frameY="-3" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10004" x="7041" y="3304" width="701" height="647" frameX="-1" frameY="-3" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10005" x="2" y="3957" width="701" height="647" frameX="-1" frameY="-3" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10006" x="2" y="3957" width="701" height="647" frameX="-1" frameY="-3" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10007" x="705" y="3957" width="701" height="647" frameX="-1" frameY="-3" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10008" x="705" y="3957" width="701" height="647" frameX="-1" frameY="-3" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10009" x="705" y="3957" width="701" height="647" frameX="-1" frameY="-3" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10010" x="705" y="3957" width="701" height="647" frameX="-1" frameY="-3" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10011" x="1408" y="3957" width="701" height="647" frameX="-1" frameY="-3" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10012" x="2111" y="3957" width="701" height="647" frameX="-1" frameY="-3" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10013" x="2111" y="3957" width="701" height="647" frameX="-1" frameY="-3" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10014" x="2814" y="3957" width="701" height="647" frameX="-1" frameY="-3" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10015" x="2814" y="3957" width="701" height="647" frameX="-1" frameY="-3" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10016" x="2814" y="3957" width="701" height="647" frameX="-1" frameY="-3" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10017" x="2814" y="3957" width="701" height="647" frameX="-1" frameY="-3" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10018" x="2814" y="3957" width="701" height="647" frameX="-1" frameY="-3" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10019" x="2814" y="3957" width="701" height="647" frameX="-1" frameY="-3" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10020" x="2814" y="3957" width="701" height="647" frameX="-1" frameY="-3" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10021" x="2814" y="3957" width="701" height="647" frameX="-1" frameY="-3" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10022" x="2814" y="3957" width="701" height="647" frameX="-1" frameY="-3" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10023" x="3517" y="3957" width="701" height="643" frameX="-1" frameY="-7" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10024" x="4220" y="3957" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10025" x="4923" y="3957" width="704" height="641" frameX="0" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10026" x="5629" y="3957" width="704" height="643" frameX="0" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10027" x="6335" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10028" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10029" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10030" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10031" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10032" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10033" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10034" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10035" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10036" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10037" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10038" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10039" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10040" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10041" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10042" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10043" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10044" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10045" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10046" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10047" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10048" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10049" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10050" x="2" y="4606" width="704" height="643" frameX="0" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10051" x="2" y="4606" width="704" height="643" frameX="0" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10052" x="708" y="4606" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10053" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10054" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10055" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10056" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10057" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10058" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10059" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10060" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10061" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10062" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10063" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10064" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10065" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10066" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10067" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10068" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10069" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10070" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10071" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10072" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10073" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10074" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10075" x="2" y="4606" width="704" height="643" frameX="0" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10076" x="2" y="4606" width="704" height="643" frameX="0" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10077" x="708" y="4606" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10078" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10079" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10080" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10081" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10082" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10083" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10084" x="7038" y="3957" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10085" x="1411" y="4606" width="701" height="642" frameX="-1" frameY="-8" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10086" x="2114" y="4606" width="701" height="639" frameX="-1" frameY="-11" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10087" x="2114" y="4606" width="701" height="639" frameX="-1" frameY="-11" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10088" x="2817" y="4606" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10089" x="2817" y="4606" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10090" x="3520" y="4606" width="701" height="641" frameX="-1" frameY="-9" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10091" x="3520" y="4606" width="701" height="641" frameX="-1" frameY="-9" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10092" x="4223" y="4606" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10093" x="4223" y="4606" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10094" x="4223" y="4606" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10095" x="4223" y="4606" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10096" x="4223" y="4606" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10097" x="4223" y="4606" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10098" x="4223" y="4606" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10099" x="4223" y="4606" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10100" x="4926" y="4606" width="704" height="641" frameX="0" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10101" x="4926" y="4606" width="704" height="641" frameX="0" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10102" x="5632" y="4606" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10103" x="4223" y="4606" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10104" x="4223" y="4606" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10105" x="4223" y="4606" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10106" x="4223" y="4606" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10107" x="4223" y="4606" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10108" x="4223" y="4606" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10109" x="4223" y="4606" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10110" x="4223" y="4606" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10111" x="4223" y="4606" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10112" x="4223" y="4606" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10113" x="4223" y="4606" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10114" x="4223" y="4606" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10115" x="4223" y="4606" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10116" x="4223" y="4606" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10117" x="4223" y="4606" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10118" x="6335" y="4606" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10119" x="7038" y="4606" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10120" x="7038" y="4606" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10121" x="2" y="5251" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10122" x="2" y="5251" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10123" x="2" y="5251" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10124" x="2" y="5251" width="701" height="640" frameX="-1" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10125" x="705" y="5251" width="704" height="641" frameX="0" frameY="-10" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline10126" x="1411" y="5251" width="701" height="638" frameX="-1" frameY="-12" frameWidth="704" frameHeight="651"/>
+	<SubTexture name="GF Voiceline30000" x="2" y="2" width="701" height="657" frameX="-1" frameY="0" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30001" x="2" y="2" width="701" height="657" frameX="-1" frameY="0" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30002" x="2114" y="5251" width="704" height="650" frameX="0" frameY="-8" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30003" x="2114" y="5251" width="704" height="650" frameX="0" frameY="-8" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30004" x="2820" y="5251" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30005" x="3523" y="5251" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30006" x="4226" y="5251" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30007" x="4929" y="5251" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30008" x="4929" y="5251" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30009" x="5632" y="5251" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30010" x="5632" y="5251" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30011" x="5632" y="5251" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30012" x="5632" y="5251" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30013" x="5632" y="5251" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30014" x="5632" y="5251" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30015" x="5632" y="5251" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30016" x="5632" y="5251" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30017" x="5632" y="5251" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30018" x="5632" y="5251" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30019" x="5632" y="5251" width="701" height="645" frameX="-1" frameY="-12" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30020" x="6335" y="5251" width="701" height="641" frameX="-1" frameY="-16" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30021" x="7038" y="5251" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30022" x="7038" y="5251" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30023" x="2" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30024" x="2" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30025" x="2" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30026" x="2" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30027" x="2" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30028" x="705" y="5903" width="704" height="641" frameX="0" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30029" x="705" y="5903" width="704" height="641" frameX="0" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30030" x="1411" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30031" x="2" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30032" x="2" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30033" x="2" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30034" x="2" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30035" x="2" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30036" x="2" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30037" x="2" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30038" x="2" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30039" x="2" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30040" x="2" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30041" x="2114" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30042" x="2817" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30043" x="2817" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30044" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30045" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30046" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30047" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30048" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30049" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30050" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30051" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30052" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30053" x="4223" y="5903" width="704" height="641" frameX="0" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30054" x="4223" y="5903" width="704" height="641" frameX="0" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30055" x="4929" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30056" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30057" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30058" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30059" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30060" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30061" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30062" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30063" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30064" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30065" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30066" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30067" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30068" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30069" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30070" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30071" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30072" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30073" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30074" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30075" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30076" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30077" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30078" x="4223" y="5903" width="704" height="641" frameX="0" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30079" x="4223" y="5903" width="704" height="641" frameX="0" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30080" x="4929" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30081" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30082" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30083" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30084" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30085" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30086" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30087" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30088" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30089" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30090" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30091" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30092" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30093" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30094" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30095" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30096" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30097" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30098" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30099" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30100" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30101" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30102" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30103" x="4223" y="5903" width="704" height="641" frameX="0" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30104" x="4223" y="5903" width="704" height="641" frameX="0" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30105" x="4929" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30106" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30107" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30108" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30109" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30110" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30111" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30112" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30113" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30114" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30115" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30116" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30117" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30118" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30119" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30120" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30121" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30122" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30123" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30124" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30125" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30126" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30127" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30128" x="4223" y="5903" width="704" height="641" frameX="0" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30129" x="4223" y="5903" width="704" height="641" frameX="0" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30130" x="4929" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30131" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30132" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30133" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30134" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30135" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30136" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30137" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30138" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30139" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30140" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30141" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30142" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30143" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30144" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30145" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30146" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30147" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF Voiceline30148" x="3520" y="5903" width="701" height="640" frameX="-1" frameY="-17" frameWidth="704" frameHeight="658"/>
+	<SubTexture name="GF left note0000" x="5632" y="5903" width="701" height="634" frameX="-1" frameY="-9" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="GF left note0001" x="6335" y="5903" width="704" height="635" frameX="0" frameY="-9" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="GF left note0002" x="7041" y="5903" width="704" height="644"/>
+	<SubTexture name="GF left note0003" x="2" y="6549" width="701" height="643" frameX="-1" frameY="0" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="GF left note0004" x="705" y="6549" width="701" height="643" frameX="-1" frameY="0" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="GF left note0005" x="1408" y="6549" width="701" height="643" frameX="-1" frameY="0" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="GF left note0006" x="2111" y="6549" width="701" height="642" frameX="-1" frameY="-1" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="GF left note0007" x="2111" y="6549" width="701" height="642" frameX="-1" frameY="-1" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="GF left note0008" x="2814" y="6549" width="701" height="642" frameX="-1" frameY="-1" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="GF left note0009" x="2814" y="6549" width="701" height="642" frameX="-1" frameY="-1" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="GF left note0010" x="2814" y="6549" width="701" height="642" frameX="-1" frameY="-1" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="GF left note0011" x="2814" y="6549" width="701" height="642" frameX="-1" frameY="-1" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="GF left note0012" x="2814" y="6549" width="701" height="642" frameX="-1" frameY="-1" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="GF left note0013" x="2814" y="6549" width="701" height="642" frameX="-1" frameY="-1" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="GF left note0014" x="2814" y="6549" width="701" height="642" frameX="-1" frameY="-1" frameWidth="704" frameHeight="644"/>
+	<SubTexture name="gf sad0000" x="3517" y="6549" width="701" height="638" frameX="0" frameY="-3" frameWidth="701" frameHeight="641"/>
+	<SubTexture name="gf sad0001" x="3517" y="6549" width="701" height="638" frameX="0" frameY="-3" frameWidth="701" frameHeight="641"/>
+	<SubTexture name="gf sad0002" x="4220" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0003" x="4220" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0004" x="4923" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0005" x="4923" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0006" x="5626" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0007" x="5626" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0008" x="6329" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0009" x="6329" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0010" x="4220" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0011" x="4220" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0012" x="4923" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0013" x="4923" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0014" x="5626" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0015" x="5626" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0016" x="6329" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0017" x="6329" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0018" x="4220" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0019" x="4220" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0020" x="4923" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0021" x="4923" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0022" x="5626" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0023" x="5626" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0024" x="6329" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0025" x="6329" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0026" x="4220" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0027" x="4220" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0028" x="4923" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0029" x="4923" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0030" x="5626" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0031" x="5626" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0032" x="6329" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0033" x="6329" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0034" x="4220" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0035" x="4220" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0036" x="4923" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0037" x="4923" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0038" x="5626" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0039" x="5626" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0040" x="6329" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0041" x="6329" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0042" x="4220" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0043" x="4220" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0044" x="4923" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0045" x="4923" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0046" x="5626" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0047" x="5626" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0048" x="6329" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0049" x="6329" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0050" x="4220" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0051" x="4220" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0052" x="4923" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0053" x="4923" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0054" x="5626" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0055" x="5626" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0056" x="6329" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0057" x="6329" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0058" x="4220" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0059" x="4220" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0060" x="4923" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0061" x="4923" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0062" x="5626" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0063" x="5626" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0064" x="6329" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0065" x="6329" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0066" x="4220" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0067" x="4220" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0068" x="4923" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0069" x="4923" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0070" x="5626" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0071" x="5626" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0072" x="6329" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0073" x="6329" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0074" x="4220" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0075" x="4220" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0076" x="4923" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0077" x="4923" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0078" x="5626" y="6549" width="701" height="641"/>
+	<SubTexture name="gf sad0079" x="5626" y="6549" width="701" height="641"/>
+</TextureAtlas>

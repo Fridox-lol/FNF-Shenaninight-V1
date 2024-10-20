@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SM_Coolthing.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="UIThing0000" x="2" y="2" width="1546" height="870"/>
+	<SubTexture name="UIThing0001" x="2" y="2" width="1546" height="870"/>
+	<SubTexture name="UIThing0002" x="2" y="2" width="1546" height="870"/>
+	<SubTexture name="UIThing0003" x="2" y="2" width="1546" height="870"/>
+	<SubTexture name="UIThing0004" x="2" y="874" width="1546" height="870"/>
+	<SubTexture name="UIThing0005" x="2" y="874" width="1546" height="870"/>
+	<SubTexture name="UIThing0006" x="2" y="874" width="1546" height="870"/>
+	<SubTexture name="UIThing0007" x="2" y="874" width="1546" height="870"/>
+</TextureAtlas>

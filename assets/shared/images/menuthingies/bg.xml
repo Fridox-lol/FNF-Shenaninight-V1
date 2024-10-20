@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg.png">
+	<!-- Created with Adobe Animate version 24.0.3.19 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BG Anim with logo instance 10000" x="2" y="2" width="1281" height="721"/>
+	<SubTexture name="BG Anim with logo instance 10001" x="1285" y="2" width="1281" height="721"/>
+	<SubTexture name="BG Anim with logo instance 10002" x="2568" y="2" width="1281" height="721"/>
+	<SubTexture name="BG Anim with logo instance 10003" x="2" y="725" width="1281" height="721"/>
+	<SubTexture name="BG Anim with logo instance 10004" x="1285" y="725" width="1281" height="721"/>
+	<SubTexture name="BG Anim with logo instance 10005" x="2568" y="725" width="1281" height="721"/>
+</TextureAtlas>

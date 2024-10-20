@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Credits_BopingText.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CreditsTextBop0000" x="2" y="2" width="513" height="109"/>
+	<SubTexture name="CreditsTextBop0001" x="2" y="2" width="513" height="109"/>
+	<SubTexture name="CreditsTextBop0002" x="2" y="113" width="511" height="107" frameX="-1" frameY="-1" frameWidth="513" frameHeight="109"/>
+	<SubTexture name="CreditsTextBop0003" x="2" y="113" width="511" height="107" frameX="-1" frameY="-1" frameWidth="513" frameHeight="109"/>
+	<SubTexture name="CreditsTextBop0004" x="515" y="113" width="504" height="101" frameX="-4" frameY="-4" frameWidth="513" frameHeight="109"/>
+	<SubTexture name="CreditsTextBop0005" x="515" y="113" width="504" height="101" frameX="-4" frameY="-4" frameWidth="513" frameHeight="109"/>
+	<SubTexture name="CreditsTextBop0006" x="515" y="113" width="504" height="101" frameX="-4" frameY="-4" frameWidth="513" frameHeight="109"/>
+	<SubTexture name="CreditsTextBop0007" x="515" y="113" width="504" height="101" frameX="-4" frameY="-4" frameWidth="513" frameHeight="109"/>
+	<SubTexture name="CreditsTextBop0008" x="515" y="113" width="504" height="101" frameX="-4" frameY="-4" frameWidth="513" frameHeight="109"/>
+	<SubTexture name="CreditsTextBop0009" x="515" y="113" width="504" height="101" frameX="-4" frameY="-4" frameWidth="513" frameHeight="109"/>
+</TextureAtlas>
