@@ -47,6 +47,8 @@ class NameMenuState extends MusicBeatState
         "SLURTEST",
         "NIGGA",
         "NIGGER",
+        "NIGGAS",
+        "NIGGERS",
         "FAGGOT",
         "FAG",
         "RETARD",
@@ -54,7 +56,8 @@ class NameMenuState extends MusicBeatState
         "TRANNY",
         "CRACKER",
         "NEGROID",
-        "CRACKA"
+        "CRACKA",
+        "HITLER"
     ];
     var devs:Array<String> = [
         "LORI",
