@@ -51,13 +51,21 @@ class NameMenuState extends MusicBeatState
         "NIGGERS",
         "FAGGOT",
         "FAG",
+        "FAGGOTS",
+        "FAGS",
         "RETARD",
         "RETARDED",
+        "RETARDS",
         "TRANNY",
+        "TRANNIES",
         "CRACKER",
-        "NEGROID",
+        "CRACKERS",
         "CRACKA",
-        "HITLER"
+        "CRACKAS",
+        "NEGROID",
+        "NEGROIDS",
+        "HITLER",
+        "NAZI"
     ];
     var devs:Array<String> = [
         "LORI",
