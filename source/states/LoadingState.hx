@@ -75,7 +75,24 @@ class LoadingState extends MusicBeatState
 		"This mod is an fnf mod. Crazy, right?",
 		"you look like a uhmmmmmm you look like a ummmmm you look like a mmmmmmmm you look like a ummmmmmmmmmmmmmmm",
 		"I think @MatPatGT will enjoy dissecting this frame by frame 👀",
-		"wiki mfs in shambles rn they gotta add all these loading tips."
+		"wiki mfs in shambles rn they gotta add all these loading tips.",
+		"We do not speak his name.",
+		"How to be hated by Lori: 1. Be Boyfriend 2. Profit",
+		"HI AKKO IT'S ME LORI",
+		"Shiny Chariot",
+		"And we're out of beta, we're releasing on time",
+		"Entree over. Now, onto the main course.",
+		"Haunted Asylum and Item Asylum collab when",
+		"See, Lori didn't just make the mod. He made you.",
+		"Together, we are Shenani Night.",
+		"You are a brain inside of a skeleton",
+		"This was made during a Doors run",
+		"Those who defile our bodies must die",
+		"O[Brain Rule #3: Don't mention interests]",
+		"FNF fans when breaking point",
+		"Fridox when exclamation mark",
+		"Tiktok mfs when hazbin hotel fan",
+		":piT",
 	];
 
 	function new(target:FlxState, stopMusic:Bool, directory:String)
@@ -153,11 +170,11 @@ class LoadingState extends MusicBeatState
 			{
 				callbacks = new MultiCallback(onLoad);
 				var introComplete = callbacks.add("introComplete");
-				/* if (PlayState.SONG != null) {
+/* 				if (PlayState.SONG != null) {
 					checkLoadSong(getSongPath());
 					if (PlayState.SONG.needsVoices)
 						checkLoadSong(getVocalPath());
-				}   */
+				} */
 				if(directory != null && directory.length > 0 && directory != 'shared') {
 					checkLibrary('week_assets');
 				}
