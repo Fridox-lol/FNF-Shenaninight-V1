@@ -541,14 +541,20 @@ class NameMenuState extends MusicBeatState
     function defaultSave(flash:Bool = true)
         {
             if(genAlpha.contains(snName))
+            {
                 saveName("NO!");
+                trace("IT SAVED AS NO? LET'S FUCKING G-");
+            }
             else
+            {
                 if(flash)
                     {
                         FlxG.camera.flash(ClientPrefs.data.flashing ? FlxColor.WHITE : 0x18FFFFFF, 1);
                         FlxG.sound.play(Paths.sound('nameConfirm'));
                     }
                 saveName(snName);
+                trace("Saved name as " + snName);
+            }
             new FlxTimer().start(1, function(tmr:FlxTimer)
                 {
                     if(FlxG.save.data.achievementsUnlocked != null)

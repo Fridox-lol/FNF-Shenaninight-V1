@@ -3,19 +3,15 @@
 	"difficulties": "Normal, Hard",
 	"weekBackground": "stage",
 	"hideFreeplay": false,
+	"weekBefore": "week0",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"inFNFVerse": false,
-	"startUnlocked": true,
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Intruder In Call",
@@ -25,9 +21,31 @@
 				173,
 				113
 			]
+		],
+		[
+			"Shenanibeats",
+			"lori",
+			[
+				255,
+				173,
+				113
+			]
+		],
+		[
+			"Goofed",
+			"lorimad",
+			[
+				255,
+				173,
+				113
+			]
 		]
 	],
-	"hideStoryMode": false,
-	"hiddenUntilUnlocked": false,
-	"weekName": "anger issue boi"
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "anger issue boi",
+	"hiddenUntilUnlocked": true
 }

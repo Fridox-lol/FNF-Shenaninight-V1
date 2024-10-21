@@ -604,6 +604,7 @@ class FreeplayState extends MusicBeatState
 					funniPortrait.y = funniPortrait.y + 25;
 					trace("The portrait is the same, not doing tween (" + curSelected + " (" + curIcon + "), " + preSelected + " (" + prevIcon + ") )");
 				}
+				funniPortrait.y = funniPortrait.y + 25;
 			}
 
 			FlxG.camera.shake(0.01, 69420, null, true);
