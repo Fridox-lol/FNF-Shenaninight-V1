@@ -556,6 +556,11 @@ class NameMenuState extends MusicBeatState
                 saveName("NO!");
                 trace("IT SAVED AS NO? LET'S FUCKING G-");
             }
+            else if(snName == 'REVOLTING')
+            {
+                saveName("...");
+                trace("2023 fridox when that one word");
+            }
             else
             {
                 if(flash)
