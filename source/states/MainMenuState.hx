@@ -336,13 +336,6 @@ class MainMenuState extends MusicBeatState
 				FreeplayState.vocals.volume += 0.5 * elapsed;
 		}
 
-		FlxG.camera.zoom = FlxMath.lerp(1, FlxG.camera.zoom, FlxMath.bound(1 - (elapsed * 3.125 /* * camZoomingDecay * playbackRate */), 0, 1));
-
-		#if debug
-		trace("funnies: " + funnies.x + ", " + funnies.y);
-		// trace("logo: " + logoBl.x + ", " + logoBl.y);
-		#end
-
 		if (!selectedSomethin)
 		{
 
@@ -368,14 +361,12 @@ class MainMenuState extends MusicBeatState
 					{
 						FlxG.sound.play(Paths.sound('scrollMenu'));
 						menuasound = false;
-						trace(menuasound);
 						return;
 					}
 			}
 			else
 			{
 				menuasound = true;
-				trace(menuasound);
 			}
 
 			if (FlxG.mouse.overlaps(menuItems.members[1])) {
@@ -383,14 +374,12 @@ class MainMenuState extends MusicBeatState
 					{
 						FlxG.sound.play(Paths.sound('scrollMenu'));
 						menuasound1 = false;
-						trace(menuasound1);
 						return;
 					}
 			}
 			else
 			{
 				menuasound1 = true;
-				trace(menuasound1);
 			}
 
 			if (FlxG.mouse.overlaps(menuItems.members[2])) {
@@ -398,14 +387,12 @@ class MainMenuState extends MusicBeatState
 					{
 						FlxG.sound.play(Paths.sound('scrollMenu'));
 						menuasound2 = false;
-						trace(menuasound2);
 						return;
 					}
 			}
 			else
 			{
 				menuasound2 = true;
-				trace(menuasound2);
 			}
 
 			if (FlxG.mouse.overlaps(menuItems.members[3])) {
@@ -413,14 +400,12 @@ class MainMenuState extends MusicBeatState
 					{
 						FlxG.sound.play(Paths.sound('scrollMenu'));
 						menuasound3 = false;
-						trace(menuasound3);
 						return;
 					}
 			}
 			else
 			{
 				menuasound3 = true;
-				trace(menuasound3);
 			}
 
 				

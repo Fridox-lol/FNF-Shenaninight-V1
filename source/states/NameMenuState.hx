@@ -97,13 +97,18 @@ class NameMenuState extends MusicBeatState
 
 		#if desktop
 		// Updating Discord Rich Presence
-		DiscordClient.changePresence("In the Menus", null);
+		DiscordClient.changePresence("Choosing a Name", null);
 		#end
 
         if (FlxG.save.data.snName != null)
         {
             if (FlxG.save.data.snName == "We don't speak his name.")
             {
+                #if desktop
+                // Updating Discord Rich Presence
+                DiscordClient.changePresence("source/states/NameMenuState:271: characters 14-17 : Name couldn't be registered, is it missing?", null);
+                #end
+
                 FlxG.sound.playMusic(Paths.music('nameMenuNotFunnyMusic'), 0.7);
             }
         }
@@ -277,7 +282,7 @@ class NameMenuState extends MusicBeatState
                             him.setGraphicSize(Std.int(him.width / 2));
                             new FlxTimer().start(1, function(tmr:FlxTimer)
                                 {
-                                    System.exit(0);
+                                    crash(true);
                                 });
                         }
                         else
@@ -306,7 +311,7 @@ class NameMenuState extends MusicBeatState
                                 if (glitchiness == 12)
                                 {
                                     Sys.command('mshta vbscript:Execute("msgbox ""TheTruth.txt"":close")');
-                                    System.exit(0);
+                                    crash(false);
                                 }
                             }
                         }
@@ -409,8 +414,7 @@ class NameMenuState extends MusicBeatState
                 }
                 else if (snName == "CRASH")
                 {
-                        FlxG.sound.music = null;
-                        FlxG.sound.music.stop(); //fridox makes a null object reference error on purpose real
+                    crash(true);
                 }
                 else if (snName == "NAFROX")
                 {
@@ -493,9 +497,17 @@ class NameMenuState extends MusicBeatState
         
     }
 
-    function crash(tween:FlxTween):Void
+    function crash(nullobject:Bool)
     {
-        System.exit(0);
+        if(nullobject)
+        {
+            FlxG.sound.music = null;
+            FlxG.sound.music.stop();
+        }
+        else
+        {
+            System.exit(0);
+        }
     }
 
     function nafroxShit(tween:FlxTween):Void
@@ -507,7 +519,13 @@ class NameMenuState extends MusicBeatState
         add(nafrox);
         nafrox.alpha = 0;
         FlxG.camera.shake(0.05, 7, null, true);
-        FlxTween.tween(nafrox, {alpha: 1}, 7, {ease: FlxEase.quadIn, onComplete: crash});
+        FlxTween.tween(nafrox, {alpha: 1}, 7, {
+            ease: FlxEase.quadIn, 
+            onComplete:
+            {
+                System.exit(0);
+            }
+        });
         FlxG.sound.play(Paths.sound("nafroxstatic"));
     }
 
@@ -522,7 +540,7 @@ class NameMenuState extends MusicBeatState
         add(ram);
         new FlxTimer().start(1, function(tmr:FlxTimer)
             {
-                System.exit(0);
+                crash(false);
             });
     }
 
