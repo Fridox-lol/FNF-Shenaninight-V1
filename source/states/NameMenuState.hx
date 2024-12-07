@@ -26,11 +26,6 @@ class NameMenuState extends MusicBeatState
     var socool:FlxEffectSprite;
     var glitchy:FlxGlitchEffect;
     var glitchiness:Float = 0;
-    /* var hewhoshallnotbenamed:Array<String> = [
-        'JOHN',
-        'MEEBIES',
-        'VOLDEMORT'
-    ]; */
 
     var genAlpha:Array<String> = [
         "SKIBIDI",
@@ -99,19 +94,6 @@ class NameMenuState extends MusicBeatState
 		// Updating Discord Rich Presence
 		DiscordClient.changePresence("Choosing a Name", null);
 		#end
-
-        if (FlxG.save.data.snName != null)
-        {
-            if (FlxG.save.data.snName == "We don't speak his name.")
-            {
-                #if desktop
-                // Updating Discord Rich Presence
-                DiscordClient.changePresence("source/states/NameMenuState:271: characters 14-17 : Name couldn't be registered, is it missing?", null);
-                #end
-
-                FlxG.sound.playMusic(Paths.music('nameMenuNotFunnyMusic'), 0.7);
-            }
-        }
         
 
         var cursor:FlxSprite;
@@ -137,26 +119,8 @@ class NameMenuState extends MusicBeatState
 		field.antialiasing = ClientPrefs.data.antialiasing;
 		field.updateHitbox();
 		field.screenCenter();
-
-        if (FlxG.save.data.snName != null)
-        {
-            if (FlxG.save.data.snName == "We don't speak his name.")
-            {
-                add(socool = new FlxEffectSprite(field));
-                glitchy = new FlxGlitchEffect(4, 10, 0.05);
-                socool.effects = [glitchy];
-                socool.x = field.x;
-                socool.y = field.y;
-            }
-            else
-            {
-                add(field);
-            }
-        }
-        else
-        {
-            add(field);
-        }
+        add(field);
+        
         
 
         underscores = new FlxSprite(0).loadGraphic(Paths.image('menuthingies/name/name_field_underscores'));
@@ -267,55 +231,6 @@ class NameMenuState extends MusicBeatState
                     {
                         slurConsequence();
                     }
-                
-                else if (snName == "MEEBIES")
-                {
-                    if (FlxG.save.data.snName != "We don't speak his name.")
-                        {
-                            FlxG.sound.music.stop();
-                            saveName("We don't speak his name.");
-                            var him:FlxSprite = new FlxSprite().loadGraphic(Paths.image('menuthingies/name/him'));
-                            him.antialiasing = ClientPrefs.data.antialiasing;
-                            him.updateHitbox();
-                            him.screenCenter();
-                            add(him);
-                            him.setGraphicSize(Std.int(him.width / 2));
-                            new FlxTimer().start(1, function(tmr:FlxTimer)
-                                {
-                                    crash(true);
-                                });
-                        }
-                        else
-                        {
-                            FlxG.sound.play(Paths.sound('cancelMenu'));
-                            glitchy.strength += glitchy.strength;
-                            glitchiness += 1;
-                            FlxG.sound.play(Paths.music('nameMenuNotFunnyMusic'), 0.7);
-                            trace(glitchy.strength);
-                            FlxG.camera.shake(glitchiness / 500, 69420, null, true);
-                            if (glitchiness <= 3)
-                            {
-                                flashImage('stop1', 'cancelMenu', false);
-                            }
-                            else if (glitchiness <= 6)
-                            {
-                                flashImage('stop2', 'cancelMenu', false);
-                            }
-                            else if (glitchiness <= 9)
-                            {
-                                flashImage('stop3', 'cancelMenu', false);
-                            }
-                            else if (glitchiness <= 12)
-                            {
-                                flashImage('stop4', 'cancelMenu', false);
-                                if (glitchiness == 12)
-                                {
-                                    Sys.command('mshta vbscript:Execute("msgbox ""TheTruth.txt"":close")');
-                                    crash(false);
-                                }
-                            }
-                        }
-                }
                 else if (snName == "LILLIAN")
                 {
                     flashImage('gf', 'vinehaha', true);
@@ -439,6 +354,10 @@ class NameMenuState extends MusicBeatState
                 {
                     flashImage('weiner', 'weiner', true);
                 }
+                else if (snName == "KYS")
+                {
+                    flashImage('kys', 'vinehaha', true);
+                }
                 else //default
                 {
                     defaultSave(true);
@@ -448,26 +367,23 @@ class NameMenuState extends MusicBeatState
         if (FlxG.keys.justPressed.ESCAPE)
 			{
 				FlxG.sound.play(Paths.sound('cancelMenu'));
-                if (FlxG.save.data.snName != "We don't speak his name.")
+                if(FlxG.save.data.achievementsUnlocked != null)
                     {
-                        if(FlxG.save.data.achievementsUnlocked != null)
-							{
-								if(FlxG.save.data.achievementsUnlocked.length == 30)
-								{
-									FlxG.sound.playMusic(Paths.music('freakyMenuPost'), 0.7);
-									// trace("CONGRATULATIONS. YOU DID EVERYTHING. NOW GO TOUCH GRASS PLEASE THANK YOU");
-								}
-								else
-								{
-									FlxG.sound.playMusic(Paths.music('freakyMenu'), 0.7);
-								}
-							}
-							else
-							{
-								FlxG.sound.playMusic(Paths.music('freakyMenu'), 0.7);
-							}
-                        MusicBeatState.switchState(new MainMenuState());
+                        if(FlxG.save.data.achievementsUnlocked.length == 30)
+                        {
+                            FlxG.sound.playMusic(Paths.music('freakyMenuPost'), 0.7);
+                            // trace("CONGRATULATIONS. YOU DID EVERYTHING. NOW GO TOUCH GRASS PLEASE THANK YOU");
+                        }
+                        else
+                        {
+                            FlxG.sound.playMusic(Paths.music('freakyMenu'), 0.7);
+                        }
                     }
+                    else
+                    {
+                        FlxG.sound.playMusic(Paths.music('freakyMenu'), 0.7);
+                    }
+                MusicBeatState.switchState(new MainMenuState());
 			}
 		super.update(elapsed);
 	}
@@ -510,6 +426,11 @@ class NameMenuState extends MusicBeatState
         }
     }
 
+    function nafCrash(tween:FlxTween):Void
+        {
+            System.exit(0);
+        }
+
     function nafroxShit(tween:FlxTween):Void
     {
         nafrox = new FlxSprite(0).loadGraphic(Paths.image('menuthingies/name/nafrox'));
@@ -521,10 +442,7 @@ class NameMenuState extends MusicBeatState
         FlxG.camera.shake(0.05, 7, null, true);
         FlxTween.tween(nafrox, {alpha: 1}, 7, {
             ease: FlxEase.quadIn, 
-            onComplete:
-            {
-                System.exit(0);
-            }
+            onComplete: nafCrash
         });
         FlxG.sound.play(Paths.sound("nafroxstatic"));
     }
@@ -567,28 +485,31 @@ class NameMenuState extends MusicBeatState
         #end
     }
 
-    function defaultSave(flash:Bool = true)
+    function defaultSave(flash:Bool = true):Void
         {
+            if(flash)
+                {
+                    FlxG.camera.flash(ClientPrefs.data.flashing ? FlxColor.WHITE : 0x18FFFFFF, 1);
+                    FlxG.sound.play(Paths.sound('nameConfirm'));
+                }
             if(genAlpha.contains(snName))
             {
                 saveName("NO!");
-                trace("IT SAVED AS NO? LET'S FUCKING G-");
             }
             else if(snName == 'REVOLTING')
             {
                 saveName("...");
-                trace("2023 fridox when that one word");
+            }
+            else if (snName == 'GLADOS')
+            {
+                saveName("Oh, it's you.");
+                trace("potal");
             }
             else
             {
-                if(flash)
-                    {
-                        FlxG.camera.flash(ClientPrefs.data.flashing ? FlxColor.WHITE : 0x18FFFFFF, 1);
-                        FlxG.sound.play(Paths.sound('nameConfirm'));
-                    }
                 saveName(snName);
-                trace("Saved name as " + snName);
             }
+            trace("Saved name as " + snName);
             new FlxTimer().start(1, function(tmr:FlxTimer)
                 {
                     if(FlxG.save.data.achievementsUnlocked != null)

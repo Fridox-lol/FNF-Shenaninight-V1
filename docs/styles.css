@@ -1,5 +1,5 @@
 .coolBox {
-    background: #1a1a1aCC;
+    background: #380000cc;
     margin: 40px 4vw;
     padding: 25px;
     font-size: 120%;
@@ -23,18 +23,81 @@ h1 {
 }
 
 body {
-    background-image: url('img/skin-funkin-cardbordtoast.jpg');
+    background-image: url('img/MenuBGLogo.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     color:white;
     background-color: #000;
-    font-family: Arial, Helvetica, sans-serif;
-    
+    font-family: "PhantomMuff 1.5";
+    color: #fff;
+    text-shadow:
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+        #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px,
+    #000 0px 0px 5px;
 }
 
-a { color:inherit;
-  text-decoration: none;}
+a {
+    color:inherit;
+}
 
 
 .hovertext a{

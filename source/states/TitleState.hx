@@ -437,33 +437,23 @@ class TitleState extends MusicBeatState
 
 				new FlxTimer().start(1, function(tmr:FlxTimer)
 				{
-					if (FlxG.save.data.snName == "We don't speak his name.")
+					MusicBeatState.switchState(new MainMenuState());
+					if(FlxG.save.data.achievementsUnlocked != null)
+					{
+						if(FlxG.save.data.achievementsUnlocked.length == 30)
 						{
-							MusicBeatState.switchState(new NameMenuState());
-							FlxG.sound.playMusic(Paths.music('nameMenuNotFunnyMusic'), 0.7);
+							FlxG.sound.playMusic(Paths.music('freakyMenuPost'), 0.7);
+							// trace("CONGRATULATIONS. YOU DID EVERYTHING. NOW GO TOUCH GRASS PLEASE THANK YOU");
 						}
 						else
 						{
-							MusicBeatState.switchState(new MainMenuState());
-							if(FlxG.save.data.achievementsUnlocked != null)
-							{
-								if(FlxG.save.data.achievementsUnlocked.length == 30)
-								{
-									FlxG.sound.playMusic(Paths.music('freakyMenuPost'), 0.7);
-									// trace("CONGRATULATIONS. YOU DID EVERYTHING. NOW GO TOUCH GRASS PLEASE THANK YOU");
-								}
-								else
-								{
-									FlxG.sound.playMusic(Paths.music('freakyMenu'), 0.7);
-								}
-							}
-							else
-							{
-								FlxG.sound.playMusic(Paths.music('freakyMenu'), 0.7);
-							}
-
-
+							FlxG.sound.playMusic(Paths.music('freakyMenu'), 0.7);
 						}
+					}
+					else
+					{
+						FlxG.sound.playMusic(Paths.music('freakyMenu'), 0.7);
+					}
 					closedState = true;
 				});
 				// FlxG.sound.play(Paths.music('titleShoot'), 0.7);

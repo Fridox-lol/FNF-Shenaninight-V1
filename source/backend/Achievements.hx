@@ -37,7 +37,7 @@ class Achievements {
 		createAchievement('sogamma',						{name: "So Much Gaming", description: "Play 'Sogamma'."});
 		createAchievement('controllerPlay',					{name: "Nintendo Approved", description: "Have you ever tried playing with a controller?"});
 		createAchievement('sofrido',						{name: "No Longer Sofrido", description: "Find and click Menino Sofrido in one of the backgrounds."});
-		createAchievement('ur_suck',						{name: "Blud thinks he's good at this", description: "Die over 100 times.", maxScore: 100, maxDecimals: 0});
+		createAchievement('ur_suck',						{name: "Blud thinks he's good at this", description: "Die 100 times.", maxScore: 100, maxDecimals: 0});
 		createAchievement('death_by_tortilla',				{name: "How To NOT Funk", description: "Prove your absolute skills by dying in the goddamn TUTORIAL."});
 		createAchievement('firstName',						{name: "Fuck Your Old Name", description: "Give yourself a name in the names menu."});
 		createAchievement('ur_good',						{name: "Bones Breaker", description: "Complete a Song with a rating of 100%."});
